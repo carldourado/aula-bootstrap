@@ -1,0 +1,37 @@
+#principal {
+    padding: 150px;
+    background-image: url(https://yuri.meuapp.net.br/projeto2/img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#principal h1{
+color: white;
+font-size: 75px;
+}
+
+#principal h2{
+    color: grey;
+    font-size: 40px;
+}
+
+#cursos{
+    padding:0 60px;
+}
+
+#perguntas{
+    background-color: grey
+    padding: 30px 60px;
+}
+
+#formulario{
+    background-color: black;
+    padding: 60px;
+    color: white;
+}
+
+#forumlario img{
+    width: 300px;
+    padding: 100px;
+    
+}
